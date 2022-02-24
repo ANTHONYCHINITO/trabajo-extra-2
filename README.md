@@ -14,7 +14,6 @@ OBJETIVO ESPECIFICOS:
 
 MARCO TEORICO :
 
-![Untitled](https://user-images.githubusercontent.com/93900233/155612635-5780c608-7fb0-4116-b9f5-401a7b8e2fa6.jpg)
-
+![image](https://user-images.githubusercontent.com/93900233/155612832-c1d5f382-30dd-4d19-adc7-cac4b7191dc0.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/155609700-664135a6-d11d-4c60-84e9-783ab394d2f0.png)
