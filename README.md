@@ -68,6 +68,10 @@ MARCO TEORICO :
 
 ![image](https://user-images.githubusercontent.com/93900233/155634636-68c4d171-c117-41c9-b12c-c3e06807d439.png)
 
+# BLOQUE DE LOS COMPONENTES
+
+![image](https://user-images.githubusercontent.com/93900233/155635378-759a0fe0-58db-4781-b465-c7cdbeb508f5.png)
+
 
 
 
