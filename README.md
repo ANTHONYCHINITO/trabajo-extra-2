@@ -44,7 +44,7 @@ MARCO TEORICO :
 
 ![image](https://user-images.githubusercontent.com/93900233/155632257-e59e078c-30d0-4776-ac49-3011ee17d8c0.png)
 
-
+![image](https://user-images.githubusercontent.com/93900233/155632923-f0d2933d-095c-4da3-a07d-cb6f9ad4ed33.png)
 
 
 
