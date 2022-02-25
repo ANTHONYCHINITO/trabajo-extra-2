@@ -22,13 +22,19 @@ MARCO TEORICO :
 
 ![image](https://user-images.githubusercontent.com/93900233/155622293-442a1381-5814-4927-952a-6cb09aaa2095.png)
 
+# BLOQUE DE CONTROL
+
 ![image](https://user-images.githubusercontent.com/93900233/155623665-109553eb-34cc-4351-b239-2de84278f900.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/155624662-5bd3d2aa-8872-432f-bc14-2e081f012d77.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/155625221-e02b9dbf-df87-4133-bb3b-686497fd0480.png)
 
+# BLOQUE DE LOGICA
+
 ![image](https://user-images.githubusercontent.com/93900233/155625766-7bd00bbb-01a2-4a85-9011-319372033015.png)
+
+# BLOQUE DE MATEMATICAS
 
 ![image](https://user-images.githubusercontent.com/93900233/155630812-e504b91b-f7f6-4485-8a5e-65b0d524b793.png)
 
