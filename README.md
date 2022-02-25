@@ -91,6 +91,7 @@ OBJETIVO ESPECIFICOS:
 
 # CUARTO PASO 
 
+![image](https://user-images.githubusercontent.com/93900233/155645387-45ddf420-1feb-401e-a049-11a54c310449.png)
 
 # QUINTO PASO 
 
