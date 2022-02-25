@@ -14,6 +14,8 @@ OBJETIVO ESPECIFICOS:
 - Conocer el funcionamiento o tener una idea de las funciones que ofrece thingsboard.
 
  # MARCO TEORICO :
+ 
+![image](https://user-images.githubusercontent.com/93900233/155639916-dd5e73e1-be66-4750-8c26-f79f593d011f.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/155612832-c1d5f382-30dd-4d19-adc7-cac4b7191dc0.png)
 
