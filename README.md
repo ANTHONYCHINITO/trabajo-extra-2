@@ -87,7 +87,10 @@ OBJETIVO ESPECIFICOS:
 
 # TERCER PASO 
 
+![image](https://user-images.githubusercontent.com/93900233/155645206-51583516-7793-4170-be78-1cefd7ac9974.png)
+
 # CUARTO PASO 
+
 
 # QUINTO PASO 
 
