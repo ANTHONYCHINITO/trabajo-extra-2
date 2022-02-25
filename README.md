@@ -38,6 +38,10 @@ MARCO TEORICO :
 
 ![image](https://user-images.githubusercontent.com/93900233/155631565-f83f5165-2422-46f5-978f-b2054e0645f6.png)
 
+# BLOQUE DE LISTA 
+
+![image](https://user-images.githubusercontent.com/93900233/155632257-e59e078c-30d0-4776-ac49-3011ee17d8c0.png)
+
 
 
 
