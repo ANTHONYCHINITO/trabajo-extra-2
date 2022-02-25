@@ -77,7 +77,33 @@ OBJETIVO ESPECIFICOS:
 
 # PROCEDIMIENTO
 
+# PRIMER PASO 
+
 ![image](https://user-images.githubusercontent.com/93900233/155640636-61dd7c08-6d73-4ba3-bbe7-02788a55e6ca.png)
+
+# SEGUNDO PASO 
+
+# TERCER PASO 
+
+# CUARTO PASO 
+
+# QUINTO PASO 
+
+# SEXTO PASO 
+
+# SEPTIMO PASO 
+
+#  OCTAVO PASO
+
+# NOVENO PASO 
+
+# DECIMO PASO 
+
+
+
+
+
+
 
 
 
