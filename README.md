@@ -101,7 +101,7 @@ OBJETIVO ESPECIFICOS:
 
 ![image](https://user-images.githubusercontent.com/93900233/155652400-64f7c3eb-361e-43c3-947c-a98892d8fa4a.png)
 
-# SEPTIMO PASO 
+# SEPTIMO PASO AMPLIFICADOR OPERACIONAL SUMADOR 
 
 ![image](https://user-images.githubusercontent.com/93900233/155652640-a5bd6355-54c5-4a86-8489-e3d488bc20e6.png)
 
