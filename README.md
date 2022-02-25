@@ -107,8 +107,11 @@ OBJETIVO ESPECIFICOS:
 
 # OCTAVO PASO
 
+![image](https://user-images.githubusercontent.com/93900233/155654508-7be5a14f-4120-4c11-b244-600353b3607f.png)
 
 # NOVENO PASO 
+
+
 
 # DECIMO PASO 
 
