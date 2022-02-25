@@ -95,6 +95,8 @@ OBJETIVO ESPECIFICOS:
 
 # QUINTO PASO 
 
+![image](https://user-images.githubusercontent.com/93900233/155651694-59e8d46b-eccd-4f7f-8a01-dda2a6574cf2.png)
+
 # SEXTO PASO 
 
 # SEPTIMO PASO 
