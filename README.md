@@ -75,7 +75,9 @@ OBJETIVO ESPECIFICOS:
 
 ![image](https://user-images.githubusercontent.com/93900233/155635378-759a0fe0-58db-4781-b465-c7cdbeb508f5.png)
 
+# PROCEDIMIENTO
 
+![image](https://user-images.githubusercontent.com/93900233/155640636-61dd7c08-6d73-4ba3-bbe7-02788a55e6ca.png
 
 
 
