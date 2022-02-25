@@ -50,12 +50,15 @@ MARCO TEORICO :
 
 ![image](https://user-images.githubusercontent.com/93900233/155633662-2fb10129-e022-4467-9e19-32aebdfbf1fe.png)
 
+# BLOQUE DE COLORES
+
+![image](https://user-images.githubusercontent.com/93900233/155634058-bd0fd359-842d-448f-9cd6-f2c28dd027fb.png)
+
+# BLOQUE DE VARIABLES
 
 
 
-
-
-
+# BLOQUE DE PROCEDIMIENTO
 
 
 
