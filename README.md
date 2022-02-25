@@ -149,9 +149,14 @@ DESPUES DE PONER LOS COMPONENTES DE DISPOSICION EN EL DISPOSITIVO LO SOGUIENTE S
 
 # DIECISEIS-AVO PASO 
 
+![image](https://user-images.githubusercontent.com/93900233/155801678-d20ef6ac-3be3-4a7c-8fe9-b95fe6b34f40.png)
 
+![image](https://user-images.githubusercontent.com/93900233/155802603-deafadb9-0089-4fe1-9d26-0c8d1b65585d.png)
 
 #  DIECISEIETE-AVO PASO 
+
+
+
 
 #  DIECIOCHO-AVO PASO 
 
