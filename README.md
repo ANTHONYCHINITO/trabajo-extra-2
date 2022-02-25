@@ -56,9 +56,11 @@ MARCO TEORICO :
 
 # BLOQUE DE VARIABLES
 
-
+![image](https://user-images.githubusercontent.com/93900233/155634393-c6523215-437e-4f90-8401-142d5825a1c0.png)
 
 # BLOQUE DE PROCEDIMIENTO
+
+![image](https://user-images.githubusercontent.com/93900233/155634636-68c4d171-c117-41c9-b12c-c3e06807d439.png)
 
 
 
