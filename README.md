@@ -36,6 +36,8 @@ MARCO TEORICO :
 
 ![image](https://user-images.githubusercontent.com/93900233/155630858-6a649d05-71c1-4228-949f-188a7db70e40.png)
 
+# BLOQUE DE TEXTO
+
 ![image](https://user-images.githubusercontent.com/93900233/155631565-f83f5165-2422-46f5-978f-b2054e0645f6.png)
 
 # BLOQUE DE LISTA 
