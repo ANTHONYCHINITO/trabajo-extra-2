@@ -1,6 +1,7 @@
-# trabajo-extra-2
-trabajo extra
-OBJETIVO GENERAL:
+# TRABAJO EXTRA
+TRABAJO EXTRA 
+
+# OBJETIVO GENERAL:
 
 - Diseñar un interfaz de control mediante la revision de varias guias que ofrece la misma para poder almacenar, visualizar y analizar los datos de nuestros dispositivos.
 
@@ -12,7 +13,7 @@ OBJETIVO ESPECIFICOS:
 
 - Conocer el funcionamiento o tener una idea de las funciones que ofrece thingsboard.
 
-MARCO TEORICO :
+ # MARCO TEORICO :
 
 ![image](https://user-images.githubusercontent.com/93900233/155612832-c1d5f382-30dd-4d19-adc7-cac4b7191dc0.png)
 
