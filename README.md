@@ -174,7 +174,7 @@ DESPUES DE PONER LOS COMPONENTES DE DISPOSICION EN EL DISPOSITIVO LO SOGUIENTE S
 
 #  VEINTEE-AVO PASO 
 
-![image](https://user-images.githubusercontent.com/93900233/155813348-229b5536-6423-4d76-8041-6fe62745a757.png)
+![image](https://user-images.githubusercontent.com/93900233/155813834-cf393216-c461-4586-91c1-445cedf8b9c9.png)
 
 #  VEINTE Y UN -AVO PASO 
 
