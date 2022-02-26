@@ -3,7 +3,7 @@ TRABAJO EXTRA
 
 # OBJETIVO GENERAL:
 
-- Diseñar un interfaz de control mediante la revision de varias guias que ofrece la misma para poder almacenar, visualizar y analizar los datos de nuestros dispositivos.
+Diseñar una APP de amplifiacdores operacionales mediante la plataforma APP INVENTOR para familiarizarnos a la programacion ya sea mediante bloques 
 
 OBJETIVO ESPECIFICOS:
 
@@ -217,6 +217,8 @@ DESPUES DE PONER LOS COMPONENTES DE DISPOSICION EN EL DISPOSITIVO LO SOGUIENTE S
 #  VEINTE Y NUEVE -AVO PASO 
 
 # AMPLIFICADOR OPERACIOANL SUMADOR
+
+![image](https://user-images.githubusercontent.com/93900233/155833434-1f787882-cacc-4c73-8794-df6c07ac2e6c.png)
 
 # AMPLIFICADOR OPERACIOANL RESTADOR
 
