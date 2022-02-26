@@ -3,15 +3,15 @@ TRABAJO EXTRA
 
 # OBJETIVO GENERAL:
 
-- Diseñar una APP de amplifiacdores operacionales mediante la plataforma APP INVENTOR para familiarizarnos a la programacion ya sea mediante bloques 
+- Diseñar una APP de amplifiacdores operacionales mediante la plataforma APP INVENTOR para caclular volataje e salñida de cada amplificador operacional y ademas para familiarizarnos con la  programacion en bloques.
 
 OBJETIVO ESPECIFICOS:
 
-- Conocer y manipular la plataforma thingsboard para la creacion de un interfaz.
+- Conocer y manipular la plataforma APP INVENTOR para la creacion de una APP
 
-- Saber como es el diseño de una interfaz de control o panel para que en un futuro ponerlo en practica en cualquier empresa.
+- Saber como se calcula cada amplificador operacional para aplicar en nuestra APP
 
-- Conocer el funcionamiento o tener una idea de las funciones que ofrece thingsboard.
+- Conocer el funcionamiento o tener una idea de las funciones que ofrece APP INVENTOR 
 
  # MARCO TEORICO :
  
