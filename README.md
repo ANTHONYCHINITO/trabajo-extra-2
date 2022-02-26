@@ -3,7 +3,7 @@ TRABAJO EXTRA
 
 # OBJETIVO GENERAL:
 
-Diseñar una APP de amplifiacdores operacionales mediante la plataforma APP INVENTOR para familiarizarnos a la programacion ya sea mediante bloques 
+- Diseñar una APP de amplifiacdores operacionales mediante la plataforma APP INVENTOR para familiarizarnos a la programacion ya sea mediante bloques 
 
 OBJETIVO ESPECIFICOS:
 
@@ -194,7 +194,7 @@ DESPUES DE PONER LOS COMPONENTES DE DISPOSICION EN EL DISPOSITIVO LO SOGUIENTE S
 ![image](https://user-images.githubusercontent.com/93900233/155828772-5461e6a9-37ed-468e-a84c-d3c5f3a8a300.png)
 
 #  VEINTE Y CINCO -AVO PASO 
-#  --EL PROCEDIMIENTO ES LA MISMA LOGICA  QUE CUANDO SE HIZO CON EL AMPLIFICADOR OPERACIOANL SUMADOR, RESTADOR Y MULTIPLICADOR  PUEDE VARIAR EN LOS COMPONENTES PERO SU USO ES EL MISMO 
+#  -EL PROCEDIMIENTO ES LA MISMA LOGICA  QUE CUANDO SE HIZO CON EL AMPLIFICADOR OPERACIOANL SUMADOR, RESTADOR Y MULTIPLICADOR  PUEDE VARIAR EN LOS COMPONENTES PERO SU USO ES EL MISMO 
 
 ![image](https://user-images.githubusercontent.com/93900233/155829383-7e71c9b6-8afa-4d78-a24e-6507b622710f.png)
 
