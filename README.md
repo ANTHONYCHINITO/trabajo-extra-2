@@ -202,7 +202,11 @@ DESPUES DE PONER LOS COMPONENTES DE DISPOSICION EN EL DISPOSITIVO LO SOGUIENTE S
 
 ![image](https://user-images.githubusercontent.com/93900233/155830359-2bafdd26-3a34-4f45-a672-b8ebefd69610.png)
 
+![image](https://user-images.githubusercontent.com/93900233/155830546-2b4a3d87-6c45-437e-a6be-73aaafab9e24.png)
+
 #  VEINTE Y SIETE -AVO PASO 
+
+![image](https://user-images.githubusercontent.com/93900233/155830646-d01068d5-c134-4439-94c0-ec53b4f44e5c.png)
 
 #  VEINTE Y OCHO -AVO PASO 
 
