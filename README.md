@@ -232,8 +232,23 @@ DESPUES DE PONER LOS COMPONENTES DE DISPOSICION EN EL DISPOSITIVO LO SOGUIENTE S
 
 ![image](https://user-images.githubusercontent.com/93900233/155832509-6d785f2e-316c-45bc-a0f6-1735108af132.png)
 
-#  TREINTA -AVO PASO 
+# VIDEO:
 
+# CONCLUSIONES:
+
+- App  Inventor  es  una  manera  excelente  de  iniciarse  en  el entorno Android y en el desarrollo de aplicaciones móviles.
+- App Inventor permite hacer con relativa  facilidad  aplicaciones  que  requerirían  un  elevado esfuerzo de programación en Android.
+- La posibilidad de testear las aplicaciones en tiempo real en el dispositivo móvil es una gran ventaja para el desarrollador.
+
+# BIBLIOGRAFIAS:
+
+- APPS-EDUCACION. (s.f.). Obtenido de https://sites.google.com/site/taacappseneducacion/home/creacion-de-apps/app-inventor
+
+- DIG-KEY. (04 de 08 de 2020). Obtenido de Integradores analógicos: https://www.digikey.com/es/articles/analog-integrators-how-to-apply-them-for-sensor-interfaces
+
+- ELECTRONICA-FACIL. (s.f.). Obtenido de AMPLIFICADOR: https://mielectronicafacil.com/analogica/amplificador-sumador-inversor/#page-content
+
+- PALOS, A. (s.f.). APP INVETOR. Obtenido de ACAREAPPS: https://scoreapps.com/blog/es/app-inventor/
 
 
 
