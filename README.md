@@ -210,9 +210,15 @@ DESPUES DE PONER LOS COMPONENTES DE DISPOSICION EN EL DISPOSITIVO LO SOGUIENTE S
 
 #  VEINTE Y OCHO -AVO PASO 
 
-![image](https://user-images.githubusercontent.com/93900233/155830692-d03e5dd5-dda1-4e41-bf06-ff2731ba8ea7.png)
+![image](https://user-images.githubusercontent.com/93900233/155830927-5487adcf-e2eb-4e40-a0d1-0cf4222ea116.png)
+
+#  RESULTADOS
 
 #  VEINTE Y NUEVE -AVO PASO 
+
+
+
+
 
 #  TREINTA -AVO PASO 
 
