@@ -234,6 +234,8 @@ DESPUES DE PONER LOS COMPONENTES DE DISPOSICION EN EL DISPOSITIVO LO SOGUIENTE S
 
 # VIDEO:
 
+https://www.youtube.com/watch?v=DZRnEk0rhwA
+
 # CONCLUSIONES:
 
 - App  Inventor  es  una  manera  excelente  de  iniciarse  en  el entorno Android y en el desarrollo de aplicaciones móviles.
